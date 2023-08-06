@@ -1,0 +1,19 @@
+.header{
+  background-color: #777777;
+  width: 100vw;
+  height: 350px;
+  text-align: center;
+  justify-content: center;
+  padding: 150px;
+  color: white;
+}
+.btnHeader{
+  margin: auto;
+  padding: auto;
+  margin-left: 650px;
+  margin-top: -181px
+}
+.cards{
+  display: flex;
+  justify-content: center;
+}
